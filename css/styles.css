@@ -5,12 +5,14 @@
       font-family: Verdana, sans-serif;
       margin: 0;
     }
-    header {
+     header {
+      width: 1225.642px;
       font-size: 100px;
       font-weight: bold;
+      text-align: center;
       margin: 0;
-      padding-left: 200px;
-      padding-right: 200px;
+      /* padding-left: 200px;
+      padding-right: 200px; */
       background-color: #006400;
       padding-top: 32px;
       padding-bottom: 32px;
