@@ -1,11 +1,11 @@
-    body {
+        body {
       display: flex;
       flex-wrap: wrap;
       color: #ffffff;
       font-family: Verdana, sans-serif;
       margin: 0;
     }
-     header {
+    header {
       width: 100%;
       font-size: 100px;
       font-weight: bold;
@@ -26,12 +26,15 @@
       /* font-family: Verdana, sans-serif; */
       /* margin: 0; */
     }
+    /* .main {
+      width: 100%;
+    } */
     .text {
       width: 100px;
       height: 150px;
       font-weight: bold;
       font-size: 100px;
-      margin-left: 200px;
+      margin-left: 10%;
       margin-top: auto;
       margin-bottom: auto;
     }
@@ -53,7 +56,8 @@
     .btn {
       width: 100px;
       height: 40px;
-      margin-left: 50px;
+      margin-left: auto;
+      margin-right: 5%;
       margin-top: auto;
       margin-bottom: auto;
       cursor: pointer;
